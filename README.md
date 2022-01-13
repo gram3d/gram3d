@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gram3d
-- 👀 I’m interested in Game Development, 3d Design, Archviz
+- 👀 I’m interested in Game Development, 3d Environment Art, Archviz
 - 🌱 I’m currently learning Unreal Engine C++ Programming
 - 📫 Reach me at Discord: gRam#0238
 
