@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maria Grammatikou 
 - 👀 I’m interested in Game Development, 3d Environment Art, Archviz
 - ✨Check my Portfolio: https://mgram.artstation.com/
-- 🌱 I’m currently learning Unreal Engine C++ Programming
+- 🌱 Diving into GAS(UE)
 - 📫 Reach me at Discord: gRam#0238
 
 <!---
