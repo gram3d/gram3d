@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Maria Grammatikou 
-- 👀 I’m interested in Game Development, 3d Environment Art, Archviz
-- ✨Check my Portfolio: https://mgram.artstation.com/
+- 👀 I’m interested in Game Development & Game Environment Art.
 - 🌱 Diving into GAS(UE)
+- 🌍 Check my Current Project in UE: https://youtu.be/zcCBDWF4YMo
+- ✨ Portfolio:http://www.artstation.com/mgram
 - 📫 Reach me at Discord: gRam#0238
 
 <!---
