@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development & Game Environment Art.
 - 🌱 Diving into GAS(UE)
 - 🌍 Check my Current Project in UE: https://youtu.be/zcCBDWF4YMo
-- ✨ Portfolio:http://www.artstation.com/mgram
+- ✨ Portfolio: http://www.artstation.com/mgram
 - 📫 Reach me at Discord: gRam#0238
 
 <!---
