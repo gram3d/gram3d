@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Grammatikou 
-- 👀 I’m interested in Game Development & Game Environment Art.
+- 👀 I’m interested in Game Development & Game Technical Art.
 - 🌱 Diving into GAS(UE)
 - 🌍 Check my Current Project in UE: https://youtu.be/zcCBDWF4YMo
 - ✨ Portfolio: http://www.artstation.com/mgram
